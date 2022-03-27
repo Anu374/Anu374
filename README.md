@@ -9,16 +9,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Anurag__xd?label=Follow)](https://twitter.com/intent/follow?screen_name=Anurag__xd)
 [![Linkedin: anmol](https://img.shields.io/badge/-anu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anu-kumar-sah-5197b4146/)](https://www.linkedin.com/in/anu-kumar-sah-5197b4146/)
-![GitHub followers](https://img.shields.io/github/followers/Anu374?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anuragxd.rf.gd//)](https://anuragxd.rf.gd/)
+![GitHub followers](https://img.shields.io/github/followers/Anu374?label=Follow&style=social&link=https://github.com/Anu374)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anuragxd.rf.gd/)](https://anuragxd.rf.gd/)
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098) -->
 <!-- ![Waka Readme](https://github.com/anmol098/anmol098/workflows/Waka%20Readme/badge.svg) -->
 
-<!-- ### 📫 Like to meet me?
 
-[![Twitter: Anu Sah](https://img.shields.io/twitter/follow/Anurag__xd?style=social)](https://twitter.com/Anurag__xd)
-[![Linkedin: Anu Sah](https://img.shields.io/badge/LinkedIn-Anu-0077B5?style=flat-for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anu-kumar-sah-5197b4146/)](https://www.linkedin.com/in/anu-kumar-sah-5197b4146/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/Anu374?label=follow&style=social)](https://github.com/Anu374) -->
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
