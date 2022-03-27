@@ -39,7 +39,7 @@
 
   
 
-<img align="right" weight="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu374&layout=compact"/>
+<img align="" weight="475" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anu374&layout=compact"/>
 
 
 
