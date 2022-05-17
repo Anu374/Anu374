@@ -4,6 +4,11 @@ Hi 👋 My name is Anu Kr Sah
 Web Developer
 -------------
 
+
+  
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230" alt="Hi, I'm Anu 👋 I'm a 🚀 Fresher developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 I've been learning to code after switching carrier in development, HTML, CSS, JS, REACT, Typescript, etc.
 
 * 🌍  I'm based in Noida, INDIA
