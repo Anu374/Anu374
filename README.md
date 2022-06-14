@@ -1,7 +1,7 @@
 Hi 👋 My name is Anu Kr Sah
 ===========================
 
-Web Developer
+Web Developer | Network Engineer
 -------------
 
 
@@ -11,7 +11,7 @@ Web Developer
 
 I've been learning to code after switching carrier in development, HTML, CSS, JS, REACT, Typescript, etc.
 
-* 🌍  I'm based in Noida, INDIA
+* 🌍  I'm based in Gurgaon, INDIA
 * 🖥️  See my portfolio at [My Portfolio](http://anu-protfolio.vercel.app/)
 * ✉️  You can contact me at [code.anukrsah@gmail.com](mailto:code.anukrsah@gmail.com )
 * 🚀  I'm currently working on [Test](http://anu-protfolio.vercel.app/)
